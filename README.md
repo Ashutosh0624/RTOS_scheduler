@@ -16,12 +16,16 @@ This project simulates a lightweight **RTOS-style sensor task scheduler** using 
 ---
 
 ## 📦 Folder Structure
-'''
+
 RTOS_Scheduler_Project/
 │
+
 ├── SensorType.h # RPM & Temperature Sensor structs + functions
+
 ├── TaskScheduler.h # SensorTask definition (interface + timing)
+
 ├── main.cpp # Scheduler logic (loop, task invocation)
+
 ├── README.md # Project documentation
 
 
