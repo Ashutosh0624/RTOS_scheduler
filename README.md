@@ -1,4 +1,4 @@
-# 🕹️ RTOS-Style Sensor Task Scheduler (Embedded Simulation Project)
+![image](https://github.com/user-attachments/assets/4f87d6e6-2281-4f22-8c8c-38b5ed0bc6d2)# 🕹️ RTOS-Style Sensor Task Scheduler (Embedded Simulation Project)
 
 This project simulates a lightweight **RTOS-style sensor task scheduler** using **C++**. It mimics how embedded real-time systems (like automotive ECUs or avionics flight computers) manage sensor polling and modular task execution — without using a full-fledged RTOS like FreeRTOS.
 
@@ -51,6 +51,10 @@ RPM: 3000
 RPM Sensor Status: OK
 Temperature: 36.5 C
 Temp Sensor Status: OK
+
+
+![image](https://github.com/user-attachments/assets/3e93ce9d-28c5-4f66-846f-0a6f5bac8297)
+
 
 
 ---
